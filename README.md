@@ -36,5 +36,5 @@ I have worked with HTML and CSS applying media queries.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@FerMarSol](https://www.frontendmentor.io/profile/FerMarSol)
 
