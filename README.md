@@ -21,7 +21,7 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/FerMarSol/stats-preview-card-component-main/blob/main/images/Screenshot.png)
 
 ### Links
 
